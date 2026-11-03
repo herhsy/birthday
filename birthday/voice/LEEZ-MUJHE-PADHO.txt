@@ -1,0 +1,2 @@
+Apna voice message yahan rakho: message.mp3
+Phir CONFIG mein voiceNote: 'voice/message.mp3' likho.
